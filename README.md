@@ -1,7 +1,7 @@
 # GOOGLE-Phishing-Page
 This Phishing page is created for knowledge purpose , you can edit the mail address in send.php file, 
 Page is created intend in mind that, for knowledge of Phishing,
-I am not responsible for Missuing this file,(Only for Students who are Learning Phishing).
+I am not responsible for Misusing this file,(Only for Students who are Learning Phishing).
 Thank you
          
   
